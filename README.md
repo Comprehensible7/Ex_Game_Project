@@ -23,8 +23,8 @@ PythonのLibraryであるPygameを利用して簡単なゲームを制作。
 
 ## Play
 
-SpaceBar -> Attack
-Left Right -> Move
+- SpaceBar -> Attack
+- Left Right -> Move
 
 
 
