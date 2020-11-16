@@ -26,3 +26,5 @@ PythonのLibraryであるPygameを利用して簡単なゲームを制作。
 SpaceBar -> Attack
 Left Right -> Move
 
+
+
