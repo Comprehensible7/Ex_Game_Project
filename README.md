@@ -20,3 +20,9 @@ PythonのLibraryであるPygameを利用して簡単なゲームを制作。
 - ボールをすべて取り除けば、'Mission Complete'が確認できます。
 - 方向キーを操作するとキャラクターを動かすことができ、武器を発射できます。
 
+
+## Play
+
+SpaceBar -> Attack
+Left Right -> Move
+
